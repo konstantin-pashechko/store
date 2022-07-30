@@ -1,0 +1,35 @@
+h1 {
+	text-align: center;
+}
+.title {
+    font-size: 140%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    }
+.option {
+    font-size: 140%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    }   
+.qty {
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.sku {
+    font-size: 130%;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.b-1green{background: #DBFFE5}
+.b-1gold{background: #FEFFC8}
+.b-1orange{background:#FFE4C8}
+.b-1pink{background: #FFDBEC}
+
+.b-1blue{background: #C8FEFF}
+.b-2gold{background: #FFFFEF}

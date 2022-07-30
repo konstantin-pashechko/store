@@ -1,0 +1,15 @@
+.title {
+	color: #111;
+}
+.sku {
+	font-size: 130%;
+}
+.qty {
+	font-size: 140%;
+}
+.b-dyellow > td {
+	background: #e5b77b;
+}
+.b-lyellow > td {
+	background: #e9ca90;
+}

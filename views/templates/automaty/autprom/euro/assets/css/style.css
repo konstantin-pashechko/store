@@ -1,0 +1,19 @@
+table {cursor: default; border: none;}
+td {color: #000; font-weight: bold;text-align: center;}
+td {line-height: 2em;}
+.wrapper { display: flex; justify-content: space-between;} 
+.box { width: 32vw; }
+
+.sku {
+	color: blue;
+	font-weight: normal; 
+}
+
+.active {
+	background: #fff;
+}
+
+th {text-align: center; line-height: 2em;}
+
+/*tbody tr:hover > .hov { background: #fff; }*/
+/*tbody tr:hover > th { background: #fff; }*/

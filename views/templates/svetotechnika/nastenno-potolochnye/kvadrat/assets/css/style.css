@@ -1,0 +1,33 @@
+h1, h2, h3, h4,h5 { text-align: center; margin: 0;}
+/*table {
+  width: 100%;
+  table-layout: fixed;
+}
+table td {
+  width: 100%;
+}*/
+
+
+.name {
+	text-align: left;
+	font-size: 100%;
+	font-weight: bold;
+}
+.qty {
+	font-size: 120%;
+}
+.sku {
+	font-size: 120%;
+}
+.left {
+	text-align: left; padding-left: 1vw !important;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.bordered > td {
+	border-bottom: 2px solid #000;
+}
+.active {
+	background: #fff;
+}

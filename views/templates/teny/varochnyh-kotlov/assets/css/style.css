@@ -1,0 +1,13 @@
+.title {
+	color: #111;
+}
+.name {
+	padding-left: 1vw !important;
+	font-size: 140%;
+}
+.sku {
+	font-size: 120%;
+}
+.qty {
+	font-size: 140%;
+}

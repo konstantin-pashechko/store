@@ -1,0 +1,170 @@
+@font-face {
+  font-family: 'Ubuntu';
+  src:  url('../fonts/Ubuntu-Regular.ttf');
+}
+
+html, body {
+	/*font-family: 'Helvetica';overflow-x: hidden;*/
+	font-family: 'Ubuntu';overflow-x: hidden;
+
+}
+
+h1, h2, h3, h4, h5 {
+	margin: 0 0 0.5em 0;
+	text-align: center;
+}
+
+li {
+	display: block !important;
+}
+
+table {
+	border: 2px solid #000 !important;
+}
+
+p {
+	margin: 0;
+}
+
+.order {
+	background: #343a40;
+	color: grey;
+}
+
+.container-fluid {
+	margin-top: 30px !important;
+}
+
+.nav-item {background: #fff;}
+.nav-link {font-weight: normal;}
+
+.bold {
+	font-weight: bold !important;
+}
+
+.activelink {
+	font-weight: bold !important;
+	color: #DE6A72 !important;
+}
+
+.view {
+	color: #eee;
+	margin-left: 40vw;
+}
+.view::selection {
+   background: transparent;
+}
+.view::-moz-selection {
+   background: transparent;
+}
+.edit {
+	position: absolute;
+	top: 15px;
+	right: 50px;
+}
+.edit > a {
+	color: white;
+}
+
+/*tr:hover > td { background: #eee !important; }*/
+
+.container {
+	margin-top: 0 !important;
+}
+
+
+.title {
+	font-size: 140%;
+	font-weight: bold;
+	text-align: center;
+}
+
+.name {
+	font-size: 120%;
+	font-weight: bold;
+	text-align: left;
+	color: #000;
+	padding-left: 0.7em !important;
+	padding-top: 0.6em !important;
+}
+.option {
+	font-size: 120%;
+	padding-top: 0.5em !important;
+	font-weight: bold;
+	text-align: center;
+	color: #000;
+}
+.sku {
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+}
+.qty {
+	font-size: 120%;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+}
+
+.code {
+	font-weight: bold;
+	text-align: center;
+}
+
+.table {font-size: 75%;}
+.container, .container-fluid {margin-top: 70px;}
+.invisible { display: none; }
+.center { text-align: center !important; }
+.left { 
+	text-align: left !important; 
+	padding-left: 1vw !important;
+}
+.tdn { text-decoration: none !important; }
+.tdn:hover {color: #eee;}
+
+.nb { border: none; }
+.bb {border-bottom: 2px solid #9da5b4 !important;}
+.br {border-right: 2px solid #9da5b4 !important;}
+.bl {border-left: 2px solid #9da5b4 !important;}
+.bordered { border-bottom: 3px solid #565656 !important; }
+.dbordered { border-bottom: 3px solid #000 !important; }
+.tbordered { border: 3px solid #000 !important; }
+
+.w50 { width: 50vw !important; }
+.w45 { width: 45vw !important; }
+.w40 { width: 30vw !important; }
+.w35 { width: 35vw !important; }
+.w30 { width: 30vw !important; }
+.w25 { width: 25vw !important; }
+.w20 { width: 20vw !important; }
+.w15 { width: 15vw !important; }
+.w10 { width: 10vw !important; }
+.w8 { width: 8vw !important; }
+.w7 { width: 7vw !important; }
+.w5 { width: 5vw !important; }
+
+.m1 { margin-top: 1em; }
+.m2 { margin-top: 2em; }
+.m3 { margin-top: 3em; }
+.m4 { margin-top: 4em; }
+.m5 { margin-top: 5em; }
+.m6 { margin-top: 6em; }
+.m7 { margin-top: 7em; }
+.m8 { margin-top: 8em; }
+.m9 { margin-top: 9em; }
+.m10 { margin-top: 10em; }
+
+
+@media screen and (min-width: 900px) {
+	.tl-fixed {
+		width: 100%;
+		table-layout: fixed;
+	}
+	.tl-fixed > td {
+		width: 100%;
+	}
+}
+
+.border-red {
+	border: 1px solid red !important;
+}

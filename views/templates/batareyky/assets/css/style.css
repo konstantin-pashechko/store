@@ -1,0 +1,36 @@
+h1 {
+	text-align: center;
+}
+.title {
+    font-size: 140%;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    }
+.option {
+    font-size: 140%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    }   
+.qty {
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.sku {
+    font-size: 130%;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.b-2heavenly{background:#76D3FC}
+.b-l-gray{background:#E6E6E6}
+.b-m-gray{background:#CCCCCC}
+.b-s-silver{background:#B9C1C4}
+.b-silver{background:#B3B3B3}
+.b-grey-area{background:#8F9396}
+
+.b-mint{background:#99FF99}

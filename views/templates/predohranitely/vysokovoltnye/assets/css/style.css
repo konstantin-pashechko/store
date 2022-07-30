@@ -1,0 +1,7 @@
+.name, .sku, .qty {
+	font-size: 130%;
+}
+.name {
+	text-align: left;
+	padding-left: 3em !important;
+}

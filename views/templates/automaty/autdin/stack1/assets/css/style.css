@@ -1,0 +1,22 @@
+table {cursor: default; font-size:  }
+td {color: #000; font-weight: bold;text-align: center;}
+td {line-height: 2em;}
+
+.balance {font-size: 1.5em;}
+
+th {text-align: center; line-height: 2em;}
+
+td .white:hover { background: #DE6A72 !important; }
+
+
+
+tbody tr:hover > td { background: #DE6A72; }
+tbody tr:hover > th { background: #DE6A72; }
+
+/*table {
+  width: 100%;
+  table-layout: fixed;
+}
+table td { 
+  width: 100%;
+}*/

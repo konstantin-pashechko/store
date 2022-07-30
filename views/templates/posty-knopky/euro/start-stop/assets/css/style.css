@@ -1,0 +1,24 @@
+/* Fields */
+.name {
+	text-align: center;
+	font-size: 130%;
+}
+.sku {
+	font-size: 130%;
+}
+.qty {
+	font-size: 130%;
+	padding-top: 1%;
+}
+/* Colors */
+.b-lpurpur {
+	background: #daa7e9;
+}
+
+.b-lsea {
+	background: #81c9d2;
+}
+
+.b-lgreen {
+	background: #b7d5a2;
+}

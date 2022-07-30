@@ -1,0 +1,48 @@
+.title {
+	border-right: 1px solid #777 !important;
+}
+.bb {
+	border-bottom: 3px solid #000 !important;
+}
+p {
+	margin: 0;
+}
+
+.green {
+	color: green !important;
+}
+.blue {
+	color: blue !important;
+}
+.red {
+	color: red !important;
+}
+
+.length {
+	text-align: left;
+	padding-left: 20px !important;
+	color: #000;
+	font-weight: bold;
+	font-size: 120%;
+}
+.material {
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	font-size: 120%;
+}
+.manufacturer {
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+	font-size: 120%;
+}
+i {
+	color: #000;
+}
+.length > span {
+	color: blue;
+}
+.length > i {
+	color: red;
+}

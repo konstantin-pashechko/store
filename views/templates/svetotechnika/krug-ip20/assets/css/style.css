@@ -1,0 +1,40 @@
+table {table-layout: auto;}
+.center {text-align: center;}
+td {color: black; text-align: center;}
+tbody tr:hover > td { background: #FFF9C4; }
+tbody tr:hover > th { background: #FFF9C4; }
+.title {color: black;}
+.name {text-align: center;font-size: 120%;}
+.qty {font-size: 130%;}
+
+span2 {display: inline-block; margin-top: 30%;} /*вертикальное выравнивание*/
+span {color: black;}
+
+th:nth-child(2){background:#F8C471;}
+th:nth-child(3){background:#98C379;}
+th:nth-child(4){background:#61AFEF;}
+th:nth-child(5){background:#F1948A;}
+th:nth-child(6){background:#AF7AC5;}
+th:nth-child(7){background:#B0BEC5;}
+
+td:nth-child(1){background:#FDFEFE;}
+td:nth-child(2){background:#a9b5c1;}
+td:nth-child(3){background:#F8C471; color:blue;}
+td:nth-child(4){background:#F8C471;}
+td:nth-child(5){background:#F8C471;}
+td:nth-child(6){background:#98C379; color:blue;}
+td:nth-child(7){background:#98C379;}
+td:nth-child(8){background:#98C379;}
+td:nth-child(9){background:#61AFEF; color:blue;}
+td:nth-child(10){background:#61AFEF;}
+td:nth-child(11){background:#61AFEF;}
+td:nth-child(12){background:#F1948A; color:blue;}
+td:nth-child(13){background:#F1948A;}
+td:nth-child(14){background:#F1948A;}
+td:nth-child(15){background:#AF7AC5; color:blue;}
+td:nth-child(16){background:#AF7AC5;}
+td:nth-child(17){background:#AF7AC5;}
+td:nth-child(18){background:#B0BEC5; color:blue;}
+td:nth-child(19){background:#B0BEC5;}
+td:nth-child(20){background:#B0BEC5;}
+

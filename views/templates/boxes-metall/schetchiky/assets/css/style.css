@@ -1,0 +1,11 @@
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+}
+.box {
+	width: 48vw;
+}
+
+.bbox {
+	margin: 0 10vw;
+}

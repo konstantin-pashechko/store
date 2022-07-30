@@ -1,0 +1,84 @@
+table {font-size: 100%; table-layout: auto;}
+.center {text-align: center;}
+.high {text-align: center;}
+td {color: black; text-align: center;}
+tbody tr:hover > td { background: #F4ECF7; }
+tbody tr:hover > th { background: #F4ECF7; }
+.bal{font-size: 1.1em; font-weight: bold;}
+.st {font-size: 1.6em; font-weight: bold;}
+.shr {font-weight: bold;}
+.text {color: red;}
+span {display: inline-block; margin-top: 30%;} /*вертикальное выравнивание*/
+
+th:nth-child(3){background:#AED6F1;}
+th:nth-child(4){background:#98C379;}
+th:nth-child(5){background:#F1948A;}
+th:nth-child(6){background:#F7DC6F;}
+th:nth-child(7){background:#F5CBA7;}
+th:nth-child(8){background:#AEB6BF;}
+th:nth-child(9){background:#D6EAF8;}
+th:nth-child(10){background:#D2B4DE;}
+th:nth-child(11){background:#85A7F9;}
+
+td:nth-child(1){background:#C6C9CA;}
+td:nth-child(2){background:#FDFEFE;}
+td:nth-child(3){background:#FDFEFE;}
+td:nth-child(4){background:#AED6F1; color:blue}
+td:nth-child(5){background:#AED6F1;}
+td:nth-child(6){background:#AED6F1;}
+td:nth-child(7){background:#98C379; color:blue}
+td:nth-child(8){background:#98C379;}
+td:nth-child(9){background:#98C379;}
+td:nth-child(10){background:#F1948A; color:blue}
+td:nth-child(11){background:#F1948A;}
+td:nth-child(12){background:#F1948A;}
+td:nth-child(13){background:#F7DC6F; color:blue}
+td:nth-child(14){background:#F7DC6F;}
+td:nth-child(15){background:#F5CBA7; color:blue}
+td:nth-child(16){background:#F5CBA7;}
+td:nth-child(17){background:#F5CBA7;}
+td:nth-child(18){background:#AEB6BF; color:blue}
+td:nth-child(19){background:#AEB6BF;}
+td:nth-child(20){background:#D6EAF8; color: blue;}
+td:nth-child(21){background:#D6EAF8;}
+td:nth-child(22){background:#D6EAF8;}
+td:nth-child(23){background:#D2B4DE; color:blue}
+td:nth-child(24){background:#D2B4DE;}
+td:nth-child(25){background:#D2B4DE;}
+td:nth-child(26){background:#85A7F9; color:blue}
+td:nth-child(27){background:#85A7F9;}
+td:nth-child(28){background:#85A7F9;}
+td:nth-child(29){background:#C6C9CA;}
+td:nth-child(30){background:#FDFEFE;}
+td:nth-child(31){background:#FDFEFE;}
+
+td::selection {
+    text-decoration: none; 
+}
+th::selection {
+    text-decoration: none; 
+}
+nobr::selection {
+    text-decoration: none; 
+}
+span::selection {
+    text-decoration: none; 
+}
+
+.title {
+	color: #111;
+	font-size: 140%;
+}
+
+.sku {
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.name {
+	text-align: center;
+}
+
+.qty {
+	font-size: 140%;
+}

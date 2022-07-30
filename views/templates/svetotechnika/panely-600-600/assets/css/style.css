@@ -1,0 +1,7 @@
+table {font-size: 100%; table-layout: auto;}
+
+th {text-align: center;} 
+
+.title {color: black;}
+.name {text-align: center;}
+.qty {font-size: 125%;}

@@ -1,0 +1,23 @@
+h2, th, td {
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+}
+.rubric {
+	font-size: 120%;
+}
+.title {
+	font-size: 140%;
+}
+.sku {
+	color: blue;
+	font-weight: bold;	
+}
+
+.name {
+	text-align: center;
+}
+
+tr:hover > td {
+	background: #fff;
+}

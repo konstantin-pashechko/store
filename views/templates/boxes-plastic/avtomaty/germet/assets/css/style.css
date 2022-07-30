@@ -1,0 +1,8 @@
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 100px;
+}
+.box {
+	width: 40vw;
+}

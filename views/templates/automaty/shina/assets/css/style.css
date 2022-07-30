@@ -1,0 +1,24 @@
+.title {
+	color: #111;
+	font-size: 140%;
+}
+
+.name {
+	color: #111;
+	font-size: 120%;
+}
+.sku {
+	font-size: 120%;
+}
+.qty {
+	font-size: 120%;
+}
+
+.b-lgreen { background: #adcf94; }
+.b-dgreen { background: #83b75e; }
+
+.b-lyellow { background: #ebd09c; }
+.b-dyellow { background: #dfb05a; }
+
+.b-lsea { background: #81c9d2; }
+.b-dsea { background: #48b0bd; }

@@ -1,0 +1,36 @@
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+table td {
+  width: 80%;
+}
+
+h2,h3 {
+	text-align: center;
+	margin: 0;
+}
+
+
+th,td {
+	text-align: center;
+	color: #000;
+}
+th {
+	font-size: 140%;
+}
+
+.name {
+	font-size: 140%;
+	font-weight: bold;
+}
+
+.sku {
+	color: blue;
+	font-size: 140%;
+}
+
+.qty {
+	font-weight: bold;
+	font-size: 140%;
+}

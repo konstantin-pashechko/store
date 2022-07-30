@@ -1,0 +1,9 @@
+table {font-size: 100%; table-layout: auto;}
+
+.center {text-align: center;}
+td {color: black; text-align: center; background: #eee;}
+
+.name {
+	padding-left: 15px !important;
+}
+.net1 {background: #ccc;}

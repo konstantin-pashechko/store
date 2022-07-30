@@ -1,0 +1,8 @@
+.br { border-right: 1px solid #777 !important; }
+.b-yg { background: #7BC74E; }
+.option { text-align: left; padding-left: 20px !important; }
+.center { text-align: center !important; }
+
+tr:hover > td {
+	background: #eee;
+}

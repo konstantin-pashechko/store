@@ -1,0 +1,14 @@
+.wrapper {
+	display: flex;
+	justify-content: space-between;
+}
+.box {
+	width: 48vw;
+}
+.name {
+	font-size: 100%;
+}
+.option {
+	text-align: left;
+	padding-left: 1wv;
+}

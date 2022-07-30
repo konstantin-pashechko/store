@@ -1,0 +1,14 @@
+.code {
+	color: #111;
+}
+.qty {
+	font-size: 110%;
+}
+.option{
+    text-align: left;
+    padding-left: 25px !important; 
+    width: 20vw;
+	}
+ tr:hover > td {
+    background: #eee;
+ }   

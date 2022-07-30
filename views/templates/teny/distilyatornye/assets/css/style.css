@@ -1,0 +1,38 @@
+.title {
+	font-size: 150%;
+	color: #111;
+}
+.stitle {
+	color: #111;
+	font-size: 135%;
+	text-align: center;
+}
+.sstitle {
+	color: #111;
+	font-size: 130%;
+	text-align: center;
+}
+
+
+.b-lgrey {
+	background: #bbb;
+}
+
+.b-dgreen { 
+	background: #83b75e;
+}
+.b-lgreen {
+	background: #adcf94;
+}
+.b-dyellow {
+	background: #dfb05a;
+}
+.b-lyellow {
+	background: #ebd09c;
+}
+.b-dblue {
+	background: #3d9deb;
+}
+.b-lblue {
+	background: #85c1f3;
+}

@@ -1,0 +1,52 @@
+table {font-size: 100%; table-layout: auto;}
+
+td {color: black; text-align: center;}
+th {color: black; text-align: center;}
+tbody tr:hover > td { background: white; }
+tbody tr:hover > th { background: white; }
+
+.bal{font-size: 1.1em; font-weight: bold;}
+.ball{font-size: 1.25em;}
+.st {font-size: 1.35em; font-weight: bold;}
+.sr {font-size: 1.8em; font-weight: bold;}
+.sr1 {font-size: 115%; font-weight: bold;}
+
+.color {background: #fee681; color: black;}
+.color1 {background: #E8F5E9; color: black;}
+.color2 {background: #ece8df; color: black;}
+
+
+.color3 {background: #F5CBA7;}
+.color4 {background: #FCF3CF;}
+.color5 {background: #d4d4d4;}
+.color6 {background: #D6EAF8;}
+
+.color7 {background: red !important;}
+
+.letter7 {color: #e88835;}
+.letter6 {color: #0076db;}
+.letter5 {color: darkviolet;}
+.letter4 {color: #40a7ff;}
+.letter3 {color: #42aa27;}
+.letter1 {color: red;}
+.letter2 {color: #ff7a00;}
+.letter {color: #808080;}
+
+.shr {background: #42aa27;}
+.shr2 {background: #e6f7e8;}
+.shr1 {background: #fee681;}
+.shr3 {background: #ffbf8a;}
+
+th:nth-child(4){background:#facac2; color: black;}
+
+th:nth-child(7){background:#E8F5E9; color: black;}
+th:nth-child(8){background:#facac2; color: black;}
+th:nth-child(9){background:#d3d6ee; color: black;}
+
+td:nth-child(2){background:#E8F5E9;}
+td:nth-child(3){background:#ece8df;}
+td:nth-child(4){background:#facac2;}
+
+td:nth-child(7){background:#E8F5E9;}
+td:nth-child(8){background:#facac2;}
+td:nth-child(9){background:#d3d6ee;}

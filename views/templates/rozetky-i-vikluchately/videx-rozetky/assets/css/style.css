@@ -1,0 +1,17 @@
+th, td {
+	text-align: center;
+	color: #000;
+}
+.name {
+	width: 12vw;
+	text-align: left;
+}
+.code {
+	width: 7vw;
+}
+.sku {
+	color: blue;
+}
+.qty {
+	font-weight: bold;
+}

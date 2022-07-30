@@ -1,0 +1,31 @@
+
+h1 {
+	text-align: center;
+}
+.title {
+    font-size: 140%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    }
+.qty {
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.sku {
+    font-size: 120%;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+.name {
+    font-size: 130%;
+    padding-left: 20px !important;
+    font-weight: normal;
+}
+
+.b-light-gray{background:#D3D3D3}
+.b-sunny-lime{background:#E2ED84}
+.b-amber{background:#FFBE00}

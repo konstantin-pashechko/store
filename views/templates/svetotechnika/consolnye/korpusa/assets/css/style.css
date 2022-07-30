@@ -1,0 +1,31 @@
+h1 {
+	text-align: center;
+}
+
+}
+.title {
+    font-size: 140%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+.sku {
+    font-size: 130%;
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+.qty {
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+.b-aquamarine{background:#CCF9FF}
+.b-medium-blue{background:#74D7FE}
+
+.b-l-gray{background:#E6E6E6}
+.b-m-gray{background:#CCCCCC}
+
+.b-medium-blue{background:#74D7FE}

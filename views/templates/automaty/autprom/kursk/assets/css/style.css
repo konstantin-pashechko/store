@@ -1,0 +1,31 @@
+table {
+  width: 100%;
+  table-layout: fixed;
+}
+table td {
+  width: 100%;
+}
+
+th, td {
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+}
+
+.title {
+	color: #fff;
+	text-align: center;
+	font-size: 140%;
+}
+.container {
+	margin-top: 25px;
+}
+.name {
+	text-align: left;
+	font-weight: bold;
+	text-align: center;	
+}
+
+.hovered {
+	background: #fff;
+}

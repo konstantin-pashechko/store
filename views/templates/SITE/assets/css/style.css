@@ -1,0 +1,11 @@
+body {
+	background: url(/backend/view/assets/image/background.jpg) no-repeat fixed;
+	background-size: cover;
+}
+
+html, body, .container-fluid {
+	height: 100%;
+	overflow: hidden;
+}
+
+
